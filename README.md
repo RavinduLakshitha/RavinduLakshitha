@@ -36,6 +36,14 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
+
+<br>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=RavinduLakshitha-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
 <!--
 **RavinduLakshitha/RavinduLakshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
