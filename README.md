@@ -35,6 +35,22 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/RavinduLakshitha">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RavinduLakshitha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/RavinduLakshitha1">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RavinduLakshitha&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RavinduLakshitha&theme=dark&hide_border=true"/>
+</p>
+
     
 <!--
 **RavinduLakshitha/RavinduLakshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
