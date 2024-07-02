@@ -12,6 +12,15 @@
 
 <br>
 
+- 🌱 I’m currently learning Web Development and other programming languages
+
+- 📫 How to reach me **ravindulakshitha250@gmail.com**
+
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ravindu-lakshitha-65a660214/" target="blank"><img align="center"
@@ -27,14 +36,6 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
-
-
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **ravindulakshitha250@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-
 <!--
 **RavinduLakshitha/RavinduLakshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
