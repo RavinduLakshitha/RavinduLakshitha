@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ravindu Lakshitha</h1>
+<h3 align="center">Student at Sabaragamuwa University of Sri Lanka🌟.</h3>
 
 <!--
 **RavinduLakshitha/RavinduLakshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
