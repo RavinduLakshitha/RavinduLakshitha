@@ -8,6 +8,15 @@
 
 <br>
 
+<p><img align="right" src="https://github.com/RavinduLakshitha-pw/RavinduLakshitha-pw/blob/main/animation_500_kxa883sd.gif" alt="RavinduLakshitha-pw" /></p>
+
+
+- 🌱 I’m currently learning Web Development and other programming languages
+
+- 📫 How to reach me **ravindulakshitha250@gmail.com**
+
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+
 <!--
 **RavinduLakshitha/RavinduLakshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
