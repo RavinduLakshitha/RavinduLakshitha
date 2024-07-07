@@ -36,20 +36,10 @@
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/RavinduLakshitha">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/RavinduLakshitha">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RavinduLakshitha&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RavinduLakshitha&theme=dark&hide_border=true"/>
-</p>
+## By the way here are some of my statistics 🚀
+![Ravindu's github stats](https://github-readme-stats.vercel.app/api?username=RavinduLakshitha&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RavinduLakshitha&theme=tokyonight" alt="mystreak"/>
+![Ravindu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduLakshitha&theme=tokyonight&layout=compact)
 
     
 <!--
